@@ -8,7 +8,7 @@ public_folder: /img
 media_library:
   name: uploadcare
   config:
-    publicKey: YOUR_UPLOADCARE_PUBLIC_KEY
+    publicKey: 'acd567a26350e2ad1a5f'
 
 collections:
   - name: 'blog'

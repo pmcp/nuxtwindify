@@ -7,7 +7,7 @@
 ### Netlify CMS
 
 - [ ] Change backend branch in admin/config.yml to correct branch
-- [ ] Change publicKey of Uploadcare folder
+- [x] Change publicKey of Uploadcare folder
 
 ## TODO
 
