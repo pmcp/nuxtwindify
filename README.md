@@ -2,10 +2,12 @@
 
 > Nuxt - Tailwind - Netlify starter
 
-## Netlify CMS
+## Todo when starting based on this project
 
-- Change backend branch in admin/config.yml to correct branch
-- Change publicKey of Uploadcare folder
+### Netlify CMS
+
+- [ ] Change backend branch in admin/config.yml to correct branch
+- [ ] Change publicKey of Uploadcare folder
 
 ## TODO
 
