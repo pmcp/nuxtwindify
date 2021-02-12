@@ -3,6 +3,6 @@
   functions = "./functions/"
   publish = "dist"
 [backend]
-  name: github
-  repo: pmcp/nuxtwindify
-  branch: netlify-cms
+  name = "github"
+  repo = "pmcp/nuxtwindify"
+  branch = "netlify-cms"
