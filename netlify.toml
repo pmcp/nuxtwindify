@@ -2,7 +2,3 @@
   command = "npm run generate"
   functions = "./functions/"
   publish = "dist"
-[backend]
-  name = "github"
-  repo = "pmcp/nuxtwindify"
-  branch = "netlify-cms"
