@@ -44,6 +44,7 @@ module.exports = {
   axios: {
     // See https://github.com/nuxt-community/axios-module#options
   },
+  target: 'static',
   generate: {
     dir: 'dist', // gh_pages/ instead of dist/
     subFolders: false // HTML files are generated according to the route path
